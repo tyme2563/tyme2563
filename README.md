@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tyme2563
-- 👀 I’m interested in mario editing
-- 🌱 I’m currently learning mario editing
-- 💞️ I’m looking to collaborate on mario editing
-- 📫 How to reach me tymetogo5@gmail.com
+- 👀 I’m interested in minecraft hacking
+- 🌱 I’m currently learning python minecraft hacking
+- 💞️ I’m looking to collaborate in a minecraft hacking group
+- 📫 How to reach me https://discord.gg/sGx8d8nPfx
 
 <!---
 tyme2563/tyme2563 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
